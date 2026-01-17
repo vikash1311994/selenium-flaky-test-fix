@@ -1,3 +1,6 @@
+# Selenium Flaky Test Fix Example
+By: Vikash – QA Automation Specialist
+
 # Fixing Flaky Selenium Tests – Real-World Approach
 
 Automation tests often fail randomly due to poor waits, weak locators, and unstable test design.
