@@ -33,5 +33,13 @@ stability, synchronization, and clean architecture.
 - Page Object Model
 
 ---
+## How to Run
+1. Clone repo
+2. Run `npm install`
+3. Run tests: `npx wdio wdio.conf.js`
+
+## Why This Matters
+Unstable tests break CI/CD pipelines, delay releases, and hurt team confidence. This repo shows best practices that reduce those failures.
+
 
 ## 📂 Project Structure
